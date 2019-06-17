@@ -1,0 +1,11 @@
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\mytest.txt
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.deps.json
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.runtimeconfig.json
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.runtimeconfig.dev.json
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.dll
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\bin\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.pdb
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\obj\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.csproj.CoreCompileInputs.cache
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\obj\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.AssemblyInfoInputs.cache
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\obj\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.AssemblyInfo.cs
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\obj\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.dll
+C:\Users\Robert Woodhouse\Documents\Applications\TxtFileReader_RWoodhouse\TxtFileReader_RWoodhouse\obj\Debug\netcoreapp2.1\TxtFileReader_RWoodhouse.pdb
